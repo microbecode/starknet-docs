@@ -13,39 +13,39 @@ The list of devtools in this section is dynamic and continuously updated. If a t
 
 * xref:devtools/coding-in-cairo.adoc[Devtools for coding in Cairo]:
 
-** Scarb
-** VS Code Cairo extension
-** Universal-Sierra-Compiler
-** cairo-profiler
-** Cairo Playground
-** Sierra Analyzer
-** Cairo lint
+** link:https://docs.swmansion.com/scarb/[Scarb]
+** link:https://marketplace.visualstudio.com/items?itemName=starkware.cairo1[VS Code Cairo extension]
+** link:https://github.com/software-mansion/universal-sierra-compiler[Universal-Sierra-Compiler]
+** link:https://github.com/software-mansion/cairo-profiler[cairo-profiler]
+** link:https://www.cairo-lang.org/cairovm/[Cairo Playground]
+** link:https://github.com/FuzzingLabs/sierra-analyzer[Sierra Analyzer]
+** link:https://github.com/software-mansion/cairo-lint[Cairo lint]
 
 * xref:devtools/writing-smart-contracts.adoc[Devtools for writing Starknet smart contracts]:
 
-** Starknet Foundry
-** Starknet Remix plugin
-** Open Zeppelin Contract Wizard
-** Walnut
+** link:https://foundry-rs.github.io/starknet-foundry/index.html[Starknet Foundry]
+** link:https://github.com/NethermindEth/starknet-remix-plugin[Starknet Remix plugin]
+** link:https://wizard.openzeppelin.com/cairo[Open Zeppelin Contract Wizard]
+** link:https://walnut.dev/[Walnut]
 
 * xref:devtools/interacting-with-starknet.adoc[Devtools for interacting with Starknet]:
 
-** Starkli
-** sncast
+** link:https://github.com/xJonathanLEI/starkli[Starkli]
+** link:https://foundry-rs.github.io/starknet-foundry/starknet/sncast-overview.html[sncast]
 ** Starknet SDKs
-** Entro
-** Starknet RPC Request Builder
+** link:https://github.com/NethermindEth/entro[Entro]
+** link:https://rpc-request-builder.voyager.online/[Starknet RPC Request Builder]
 
 * xref:devtools/building-dapps.adoc[Devtools for building Starknet decentralized apps (dApps)]:
 
-** Scaffold-Stark
-** Starknet Scaffold
-** Starknet React
-** Get Starknet
-** Starknetkit
+** link:https://scaffoldstark.com/[Scaffold-Stark]
+** link:https://www.starknetscaffold.xyz/[Starknet Scaffold]
+** link:https://www.starknet-react.com/docs/getting-started[Starknet React]
+** link:https://github.com/starknet-io/get-starknet[Get Starknet]
+** link:https://www.starknetkit.com/[Starknetkit]
 
 * xref:devtools/running-devnets.adoc[Devtools for using Starknet developer networks (devnets)]:
 
-** Starknet Devnet RS
-** Starknet Devnet JS
-** Katana
+** link:https://github.com/0xSpaceShard/starknet-devnet-rs[Starknet Devnet RS]
+** link:https://github.com/0xSpaceShard/starknet-devnet-js[Starknet Devnet JS]
+** link:https://book.dojoengine.org/toolchain/katana[Katana]
